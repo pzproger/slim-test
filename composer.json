@@ -1,0 +1,17 @@
+{
+    "name": "pz/slim",
+    "authors": [
+        {
+            "name": "pzproger",
+            "email": "pzproger@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.6",
+        "nyholm/psr7": "^1.5",
+        "nyholm/psr7-server": "^1.0",
+        "guzzlehttp/psr7": "^2.4",
+        "laminas/laminas-diactoros": "^2.17"
+    }
+}
